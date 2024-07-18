@@ -1,4 +1,4 @@
-# :octocat: My Awesome Github list - The best Avesome in my opinion on 18/07/2024                   
+# 🐙 My Awesome Github list - The best Avesome in my opinion on 18/07/2024                   
 end on ZYSzys / awesome-captcha - 1.2k stars                      
 
 https://github.com/sindresorhus/awesome - 311k stars                       
@@ -125,3 +125,9 @@ https://github.com/Lissy93/awesome-privacy - 6.4k stars
 # 📄 Journals    
 ## Russian          
 [Актуальный перечень журналов ВАК 2024](https://sibac.info/blog/perechen-recenziruemyh-nauchnyh-izdaniy-vak)                
+International Journal of Open Information Technologies http://injoit.org/index.php/j1 - факультет ВМК МГУ имени М.В. Ломоносова - Free access              
+[Russian Technological Journal ](https://www.rtj-mirea.ru/jour) - РТУ МИРЭА, ИТХТ им. М.В. Ломоносова - Free access                                   
+[Математический вестник Вятского государственного университета](http://advanced-science.ru/izdaniyamatvest)            
+
+### AI / DS        
+[100 Вестник Воронежского государственного университета. Серия: Системный анализ и информационные технологии](https://journals.vsu.ru/sait/issue/archive) - Free access                                                     
