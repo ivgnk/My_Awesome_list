@@ -1,5 +1,7 @@
-# My_Awesome_list on 18/07/2024                   
-The best Avesome in my opinion                           
+# My_Awesome_list - The best Avesome in my opinion on 18/07/2024                   
+https://github.com/sindresorhus/awesome - 311k stars
+
+
 
 ## 🚗 ML / DL / AI / DS                    
 https://github.com/ChristosChristofidis/awesome-deep-learning -  23.3k stars                    
@@ -16,9 +18,11 @@ https://github.com/briatte/awesome-network-analysis - 3.5k stars
 https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners -  333 stars              
 
 ## 🐍 Python            
-https://github.com/wsvincent/awesome-django - 8.9k stars
-https://github.com/godotengine/awesome-godot - 6.4k stars                 
-https://github.com/dahlia/awesome-sqlalchemy -  2.8k stars                                                 
+📍 **https://github.com/DopplerHQ/awesome-interview-questions** - 69.2k stars                     
+https://github.com/wsvincent/awesome-django - 8.9k stars                    
+https://github.com/godotengine/awesome-godot - 6.4k stars                  
+https://github.com/dahlia/awesome-sqlalchemy -  2.8k stars                                                              
+**https://github.com/TomNicholas/Python-for-Scientists** - 280 stars                     
 
 ## 📝 Math 
 https://github.com/rossant/awesome-math - 8.4k stars           
