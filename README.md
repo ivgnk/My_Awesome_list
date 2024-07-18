@@ -8,9 +8,11 @@ https://github.com/igorbarinov/awesome-data-engineering - 6.4k stars
 https://github.com/likedan/Awesome-CoreML-Models - 6.3k stars                
 https://github.com/src-d/awesome-machine-learning-on-source-code -  6.2k stars     
 https://github.com/steven2358/awesome-generative-ai -  5.3k stars     
+**https://github.com/faridrashidi/kaggle-solutions** - 3.9k stars                   
+https://github.com/ikaijua/Awesome-AITools - 3.9k stars                   
 https://github.com/jphall663/awesome-machine-learning-interpretability -  3.5k stars            
 https://github.com/briatte/awesome-network-analysis - 3.5k stars                   
-💰 **https://github.com/georgezouq/awesome-ai-in-finance** -  3k stars
+💰 **https://github.com/georgezouq/awesome-ai-in-finance** -  3k stars                       
 https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners -  333 stars              
 
 ## 🐍 Python            
@@ -36,6 +38,8 @@ https://github.com/jiafei1224/awesome-intuitive-physics-ai - 15 stars
 
 
 ## 🌏 Earth Sciences                 
+https://github.com/sshuair/awesome-gis -  4.3k stars           
+**https://github.com/sacridini/Awesome-Geospatial** - 4k stars
 🚩 https://github.com/nschloe/awesome-scientific-computing - 1.3k stars                  
 https://github.com/koldunovn/python_for_geosciences -  454 stars            
 https://github.com/yohanesnuwara/computational-geophysics -  76 stars                  
