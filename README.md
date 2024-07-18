@@ -1,6 +1,7 @@
 # 🐙 My Awesome Github list - The best Avesome in my opinion on 18/07/2024                   
-end on ZYSzys / awesome-captcha - 1.2k stars                      
+💜 **https://github.com/topics/awesome**             
 
+end on ZYSzys / awesome-captcha - 1.2k stars                      
 https://github.com/sindresorhus/awesome - 311k stars                       
 https://github.com/emijrp/awesome-awesome -  2.7k stars                  
 **https://github.com/mhxion/awesome-discord-communities** - 2.6k stars                    
@@ -124,7 +125,35 @@ https://github.com/Lissy93/awesome-privacy - 6.4k stars
 # 🎉 Conferences                             
 https://habr.com/ru/hubs/tech_events                
 https://habr.com/ru/search/?q=Конференция                 
-https://habr.com/ru/search/?target_type=posts&order=relevance&q=[конференция]                          
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=[конференция]                                    
+
+💜 **https://github.com/topics/conferences** - 384 public repo                           
+[List of Python Conferences around the World](https://github.com/python-organizers/conferences)          
+
+**https://github.com/search?q=conferencies&type=repositories**                           
+https://github.com/search?q=conferencies+python&type=repositories                             
+
+💌 **https://github.com/lixin4ever/Conference-Acceptance-Rate**                   
+**https://github.com/Lionelsy/Conference-Accepted-Paper-List**             
+❗❗ **https://github.com/unchase/awesome-russian-it**                     
+
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-ai                     
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-analytics                    
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-architecture            
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-blockchain              
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-bigdata-datascience                                        
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#meetups-development-python                                
+❗ https://github.com/unchase/awesome-russian-it?tab=readme-ov-file#blogs-python                          
+
+❗ https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md                            
+{ https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md#podcasts-development-python                                              
+{ https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md#podcasts-bigdata                           
+
+❗ https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md                         
+{ https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md#youtube-ai-ml-datascience                        
+{ https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md#youtube-development-python                     
+
+https://github.com/pyvideo/data               
 
 # 📄 Journals    
 ## Russian          
