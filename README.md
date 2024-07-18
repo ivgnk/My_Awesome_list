@@ -6,11 +6,14 @@ https://github.com/ChristosChristofidis/awesome-deep-learning -  23.3k stars
 https://github.com/jbhuang0604/awesome-computer-vision  -  20.3k stars             
 https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners -  333 stars              
 
-# Physics
+# ⚡ Physics
 💜 https://github.com/topics/physics                     
+💜 https://github.com/topics/physics?l=python                     
+https://github.com/nschloe/awesome-scientific-computing - 1.3k stars                  
 https://github.com/wbierbower/awesome-physics -  471 stars                   
 
-# Earth Sciences                 
+
+# 🌏 Earth Sciences                 
 https://github.com/koldunovn/python_for_geosciences -  454 stars            
 https://github.com/yohanesnuwara/computational-geophysics -  76 stars                  
 
