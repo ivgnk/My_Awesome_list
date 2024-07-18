@@ -53,8 +53,14 @@ https://github.com/jiafei1224/awesome-intuitive-physics-ai - 15 stars
 
 
 ## 🌏 Earth Sciences                 
-💜 https://github.com/topics/geospatial
-💜 https://github.com/topics/geospatial?l=python
+💜 https://github.com/topics/map - 7,192 public repo              
+💜 https://github.com/topics/map?l=python - 520 public repo                
+
+💜 https://github.com/topics/gis - 4,163 public repo                 
+💜 https://github.com/topics/gis?l=python -  946 public repo                 
+
+💜 https://github.com/topics/geospatial - 2,224 public repo                                       
+💜 https://github.com/topics/geospatial?l=python - 572 public repo                                      
 
 
 https://github.com/sshuair/awesome-gis -  4.3k stars                                 
