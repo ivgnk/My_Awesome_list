@@ -121,6 +121,10 @@ https://github.com/OffcierCia/ultimate-defi-research-base - 1.9k stars
 ## 🗿 Security
 https://github.com/Lissy93/awesome-privacy - 6.4k stars                      
 
+# 🎉 Conferences                             
+https://habr.com/ru/hubs/tech_events                
+https://habr.com/ru/search/?q=Конференция                 
+https://habr.com/ru/search/?target_type=posts&order=relevance&q=[конференция]                          
 
 # 📄 Journals    
 ## Russian          
