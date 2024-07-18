@@ -1,4 +1,4 @@
-# My_Awesome_list - The best Avesome in my opinion on 18/07/2024                   
+# My Awesome Github list - The best Avesome in my opinion on 18/07/2024                   
 end on ZYSzys / awesome-captcha - 1.2k stars                      
 
 https://github.com/sindresorhus/awesome - 311k stars                       
@@ -120,3 +120,8 @@ https://github.com/OffcierCia/ultimate-defi-research-base - 1.9k stars
 
 ## 🗿 Security
 https://github.com/Lissy93/awesome-privacy - 6.4k stars                      
+
+
+📄 # Journals    
+# Russian          
+[Актуальный перечень журналов ВАК 2024](https://sibac.info/blog/perechen-recenziruemyh-nauchnyh-izdaniy-vak)                
