@@ -1,4 +1,6 @@
 # My_Awesome_list - The best Avesome in my opinion on 18/07/2024                   
+end on ZYSzys / awesome-captcha - 1.2k stars                      
+
 https://github.com/sindresorhus/awesome - 311k stars                       
 https://github.com/emijrp/awesome-awesome -  2.7k stars                  
 **https://github.com/mhxion/awesome-discord-communities** - 2.6k stars                    
@@ -56,7 +58,9 @@ https://github.com/godotengine/awesome-godot - 6.4k stars
 https://github.com/dahlia/awesome-sqlalchemy -  2.8k stars         
 **https://github.com/krzjoa/awesome-python-data-science** - 2.4k stars                       
 **https://github.com/ucg8j/awesome-dash** - 2.1k stars                              
-**https://github.com/DjangoEx/awesome-python-resources** - 1.3k stars             
+**https://github.com/DjangoEx/awesome-python-resources** - 1.3k stars               
+https://github.com/nioperas06/awesome-django-rest-framework - 1.3k stars               
+**https://github.com/mcauser/awesome-micropython** - 1.3k stars                  
 **https://github.com/TomNicholas/Python-for-Scientists** - 280 stars                        
 
 ## 📝 Math 
