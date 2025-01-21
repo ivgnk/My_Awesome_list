@@ -2,6 +2,7 @@
 [Курсовые работы студентов НИУ ВШЭ - Пермь](https://github.com/HSE-Perm-projects-23-24)             
 https://github.com/MikhailovAlexander               
 https://github.com/daria-rakovskaia                
+https://github.com/EgorPlekhanov
 
 # PSNRU
 
@@ -16,3 +17,10 @@ https://github.com/almiluk/bachelor_thesis
 
 # MI            
 https://github.com/perm-mining-institute             
+
+# Others
+https://github.com/daniil-dushenev/its-perm-hack
+
+- - -
+**DS**   
+https://github.com/daniil-dushenev               
