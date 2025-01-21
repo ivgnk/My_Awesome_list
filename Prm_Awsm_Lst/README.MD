@@ -1,3 +1,8 @@
+# HSE
+[Курсовые работы студентов НИУ ВШЭ - Пермь](https://github.com/HSE-Perm-projects-23-24)             
+https://github.com/MikhailovAlexander               
+https://github.com/daria-rakovskaia                
+
 # PSNRU
 
 ## Phys     
@@ -5,3 +10,7 @@
 https://github.com/IvanSboev              
 https://github.com/konstgav                    
 https://github.com/kat6chinskiy          
+
+
+# MI            
+https://github.com/perm-mining-institute             
