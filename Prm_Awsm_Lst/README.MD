@@ -5,12 +5,14 @@ https://github.com/daria-rakovskaia
 
 # PSNRU
 
-## Phys     
+## Phys-Math     
 [Описание физических демонстраций, проводимых в рамках лекционного курса физики в ПГУ, Пермь](https://github.com/IvanSboev/demo.online.PSU)        
 https://github.com/IvanSboev              
 https://github.com/konstgav                    
 https://github.com/kat6chinskiy          
 
+https://github.com/almiluk            
+https://github.com/almiluk/bachelor_thesis           
 
 # MI            
 https://github.com/perm-mining-institute             
