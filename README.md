@@ -86,7 +86,7 @@ https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading -  2.6k st
 
 
 ## 🌏 Earth Sciences                
-🚩🚩🚩 https://github.com/myak555
+🚩🚩🚩 **https://github.com/myak555** ❗❗❗              
 
 💜 https://github.com/topics/map - 7,192 public repo              
 💜 https://github.com/topics/map?l=python - 520 public repo                
