@@ -85,7 +85,9 @@ https://github.com/wilsonfreitas/awesome-quant - 16.9k stars
 https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading -  2.6k stars                 
 
 
-## 🌏 Earth Sciences                 
+## 🌏 Earth Sciences                
+🚩🚩🚩 https://github.com/myak555
+
 💜 https://github.com/topics/map - 7,192 public repo              
 💜 https://github.com/topics/map?l=python - 520 public repo                
 
